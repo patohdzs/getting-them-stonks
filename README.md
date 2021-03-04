@@ -1,2 +1,2 @@
-# getting-them-stonks
- Material for WDSS Student Speaker Series presentation on portfolio optimization
+# Getting Them Stonks
+Code for WDSS Student Speaker Series presentation on M-V portfolio optimization
